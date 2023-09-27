@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\bin\Debug\net8.0\07_ForLoopChallenges.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\bin\Debug\net8.0\07_ForLoopChallenges.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\bin\Debug\net8.0\07_ForLoopChallenges.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\bin\Debug\net8.0\07_ForLoopChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\bin\Debug\net8.0\07_ForLoopChallenges.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\refint\07_ForLoopChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\07_ForLoopChallenges.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForLoopChallenges\obj\Debug\net8.0\ref\07_ForLoopChallenges.dll

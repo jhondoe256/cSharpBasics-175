@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\bin\Debug\net8.0\06_Tenaries.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\bin\Debug\net8.0\06_Tenaries.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\bin\Debug\net8.0\06_Tenaries.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\bin\Debug\net8.0\06_Tenaries.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\bin\Debug\net8.0\06_Tenaries.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\refint\06_Tenaries.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\06_Tenaries.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Tenaries\obj\Debug\net8.0\ref\06_Tenaries.dll

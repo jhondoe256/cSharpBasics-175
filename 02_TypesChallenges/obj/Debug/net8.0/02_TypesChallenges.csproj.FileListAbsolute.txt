@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\bin\Debug\net8.0\02_TypesChallenges.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\bin\Debug\net8.0\02_TypesChallenges.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\bin\Debug\net8.0\02_TypesChallenges.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\bin\Debug\net8.0\02_TypesChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\bin\Debug\net8.0\02_TypesChallenges.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\refint\02_TypesChallenges.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\02_TypesChallenges.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_TypesChallenges\obj\Debug\net8.0\ref\02_TypesChallenges.dll

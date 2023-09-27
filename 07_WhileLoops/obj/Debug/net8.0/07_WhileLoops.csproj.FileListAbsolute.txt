@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\bin\Debug\net8.0\07_WhileLoops.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\bin\Debug\net8.0\07_WhileLoops.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\bin\Debug\net8.0\07_WhileLoops.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\bin\Debug\net8.0\07_WhileLoops.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\bin\Debug\net8.0\07_WhileLoops.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\refint\07_WhileLoops.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\07_WhileLoops.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_WhileLoops\obj\Debug\net8.0\ref\07_WhileLoops.dll

@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net8.0\05_Booleans.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net8.0\05_Booleans.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net8.0\05_Booleans.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net8.0\05_Booleans.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\bin\Debug\net8.0\05_Booleans.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\refint\05_Booleans.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\05_Booleans.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\05_Booleans\obj\Debug\net8.0\ref\05_Booleans.dll

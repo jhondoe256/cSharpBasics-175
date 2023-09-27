@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\bin\Debug\net8.0\06_SwitchExpressions.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\bin\Debug\net8.0\06_SwitchExpressions.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\bin\Debug\net8.0\06_SwitchExpressions.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\bin\Debug\net8.0\06_SwitchExpressions.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\bin\Debug\net8.0\06_SwitchExpressions.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\refint\06_SwitchExpressions.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\06_SwitchExpressions.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_SwitchExpressions\obj\Debug\net8.0\ref\06_SwitchExpressions.dll

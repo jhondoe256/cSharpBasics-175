@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WvIDsyPly2KOkWV98EEewGbCOKJtnYX+5bilqvanaKn5bZwFOU/adv2t3L2n+4GWBqDXI3sncGQM68gzdcDCw==",
+  "success": true,
+  "projectFilePath": "c:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\csharpBasics\\10_Iterfaces_WorkingWithDI\\10_Iterfaces_WorkingWithDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

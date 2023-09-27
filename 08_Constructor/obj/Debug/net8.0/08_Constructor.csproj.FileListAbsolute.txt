@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\bin\Debug\net8.0\08_Constructor.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\bin\Debug\net8.0\08_Constructor.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\bin\Debug\net8.0\08_Constructor.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\bin\Debug\net8.0\08_Constructor.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\bin\Debug\net8.0\08_Constructor.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\refint\08_Constructor.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\08_Constructor.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\08_Constructor\obj\Debug\net8.0\ref\08_Constructor.dll

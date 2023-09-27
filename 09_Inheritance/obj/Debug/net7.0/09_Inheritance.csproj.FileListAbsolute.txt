@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\bin\Debug\net7.0\09_Inheritance.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\bin\Debug\net7.0\09_Inheritance.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\bin\Debug\net7.0\09_Inheritance.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\bin\Debug\net7.0\09_Inheritance.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\bin\Debug\net7.0\09_Inheritance.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\refint\09_Inheritance.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\09_Inheritance.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\09_Inheritance\obj\Debug\net7.0\ref\09_Inheritance.dll

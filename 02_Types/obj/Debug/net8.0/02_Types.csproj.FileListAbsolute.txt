@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net8.0\02_Types.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net8.0\02_Types.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net8.0\02_Types.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net8.0\02_Types.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\bin\Debug\net8.0\02_Types.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\refint\02_Types.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\02_Types.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\02_Types\obj\Debug\net8.0\ref\02_Types.dll

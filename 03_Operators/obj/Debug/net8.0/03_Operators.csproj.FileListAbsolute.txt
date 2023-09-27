@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net8.0\03_Operators.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net8.0\03_Operators.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net8.0\03_Operators.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net8.0\03_Operators.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net8.0\03_Operators.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\refint\03_Operators.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\03_Operators.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net8.0\ref\03_Operators.dll

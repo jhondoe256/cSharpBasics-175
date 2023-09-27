@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\bin\Debug\net8.0\06_ElseStatements.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\bin\Debug\net8.0\06_ElseStatements.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\bin\Debug\net8.0\06_ElseStatements.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\bin\Debug\net8.0\06_ElseStatements.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\bin\Debug\net8.0\06_ElseStatements.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\refint\06_ElseStatements.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\06_ElseStatements.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_ElseStatements\obj\Debug\net8.0\ref\06_ElseStatements.dll

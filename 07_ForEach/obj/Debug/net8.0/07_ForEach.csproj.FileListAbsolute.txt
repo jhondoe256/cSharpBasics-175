@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\bin\Debug\net8.0\07_ForEach.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\bin\Debug\net8.0\07_ForEach.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\bin\Debug\net8.0\07_ForEach.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\bin\Debug\net8.0\07_ForEach.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\bin\Debug\net8.0\07_ForEach.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\refint\07_ForEach.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\07_ForEach.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_ForEach\obj\Debug\net8.0\ref\07_ForEach.dll

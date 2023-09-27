@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7h4Vp31tzcb+vfgD2B7wtCTcy9I+f/mV5LD/zrbap8PnlMcVuumlqSPrkHFrHXqQlMeQlN/wPU05Ac+kVTTNQ==",
+  "success": true,
+  "projectFilePath": "c:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\csharpBasics\\10_Interfaces\\10_Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

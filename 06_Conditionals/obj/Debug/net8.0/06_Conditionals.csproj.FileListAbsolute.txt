@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\bin\Debug\net8.0\06_Conditionals.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\bin\Debug\net8.0\06_Conditionals.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\bin\Debug\net8.0\06_Conditionals.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\bin\Debug\net8.0\06_Conditionals.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\bin\Debug\net8.0\06_Conditionals.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\refint\06_Conditionals.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\06_Conditionals.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\obj\Debug\net8.0\ref\06_Conditionals.dll

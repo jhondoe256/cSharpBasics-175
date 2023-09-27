@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\bin\Debug\net8.0\07_forLoop.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\bin\Debug\net8.0\07_forLoop.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\bin\Debug\net8.0\07_forLoop.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\bin\Debug\net8.0\07_forLoop.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\bin\Debug\net8.0\07_forLoop.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\refint\07_forLoop.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\07_forLoop.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\07_forLoop\obj\Debug\net8.0\ref\07_forLoop.dll

@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\bin\Debug\net8.0\06_Switches.exe
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\bin\Debug\net8.0\06_Switches.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\bin\Debug\net8.0\06_Switches.runtimeconfig.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\bin\Debug\net8.0\06_Switches.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\bin\Debug\net8.0\06_Switches.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\refint\06_Switches.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\06_Switches.genruntimeconfig.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\06_Switches\obj\Debug\net8.0\ref\06_Switches.dll
